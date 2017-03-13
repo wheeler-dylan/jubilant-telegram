@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(150,200,210);
+}
+
+p {
+  font-family: 'comic-sans', cursive;
+  font: 2em;
+}
+
+#img1 {
+  vertical-align: middle;
+}
+
+#khanCQ {
+  background-color: rgba(220, 180, 180, 0.7);
+  font-size: 1em;
+}
+
+#home {
+  font-family: 'ravie', 'arial', serif;
+  text-decoration-color: rgba(60, 200, 180, 0.5);
+}
